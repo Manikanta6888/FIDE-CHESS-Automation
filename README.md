@@ -1,4 +1,4 @@
-Here's a clean and structured way to present and explain how you executed your FIDE automation project in Tosca, including both the process steps and execution method using a .tsu file:
+Here's a clean and structured way to present and explain how to execute this FIDE automation project in Tosca, including both the process steps and execution method using a .tsu file:
 
 ✅ Project Workflow Steps
 Open FIDE Website
